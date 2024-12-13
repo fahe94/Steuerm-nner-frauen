@@ -3,7 +3,7 @@ const passwordMap = {
   "482619": "content1",
   "735904": "content2",
   "261837": "content3",
-  "1237": "content4"
+  "186573": "content4"
 };
 
 // Passwort überprüfen
